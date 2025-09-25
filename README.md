@@ -1,1 +1,3 @@
-v0.0: 使用FTP將檔案在server端將檔案從client抓檔案
+PaddlePaddle+PaddleOCR在RasPI尚無法執行
+
+PaddleLite目前尚無法正確辨識
